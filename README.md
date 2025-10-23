@@ -200,7 +200,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 > *"I believe in writing clean, maintainable code that solves real-world problems. Every project is an opportunity to learn, innovate, and create meaningful impact through technology."*
 
 ### 🚀 **Technical Strengths**
-- Full-stack development expertise (MERN & .NET)
+- Full-stack development expertise (MERN)
 - Mobile application development (Android & Cross-platform)
 - Database design and optimization
 - REST API development and integration
