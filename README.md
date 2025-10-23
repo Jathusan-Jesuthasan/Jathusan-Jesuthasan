@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-chi-six-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <a href="https://linkedin.com/in/jathusan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/jathusan-jesuthasan"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:jesuthasanjathusan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://github.com/Jathusan-Jesuthasan"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
@@ -20,7 +20,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 - 🎓 **BSc (Hons) in Information Technology** – SLIIT
 - 💼 **Software Engineering Intern** – MERN Stack Development
-- 🌱 **Currently learning:** Spring Boot ,React-native ,Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)
+- 🌱 **Currently learning:** Spring Boot, React Native, Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)
 - 💡 **Interests:** Clean Architecture, System Design, UI/UX, Mobile Development
 - 📍 **Based in:** Colombo, Sri Lanka
 
@@ -42,6 +42,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
   <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge" alt="Node.js">
   <img src="https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white&style=for-the-badge" alt="Express.js">
   <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" alt=".NET">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=for-the-badge" alt="Spring Boot">
   <img src="https://img.shields.io/badge/REST_API-FF6C37?logo=postman&logoColor=white&style=for-the-badge" alt="REST API">
 </p>
 
@@ -190,15 +191,16 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 ### 🎯 **Current Focus Areas**
 - **.NET Ecosystem:** Building enterprise-level applications with .NET Core
 - **MERN Stack:** Developing full-stack solutions for modern web applications
+- **Spring Boot:** Mastering enterprise Java development
+- **React Native:** Building cross-platform mobile applications
 - **AI Integration:** Implementing machine learning features in web apps
 - **Cloud Technologies:** Deploying and managing applications on cloud platforms
-- **System Design:** Mastering scalable architecture and design patterns
 
 ### 💡 **Development Philosophy**
 > *"I believe in writing clean, maintainable code that solves real-world problems. Every project is an opportunity to learn, innovate, and create meaningful impact through technology."*
 
 ### 🚀 **Technical Strengths**
-- Full-stack development expertise
+- Full-stack development expertise (MERN & .NET)
 - Mobile application development (Android & Cross-platform)
 - Database design and optimization
 - REST API development and integration
@@ -213,7 +215,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 ### 💼 **Professional Profiles**
 <p>
-  <a href="https://linkedin.com/in/jathusan">
+  <a href="https://www.linkedin.com/in/jathusan-jesuthasan">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://my-portfolio-chi-six-14.vercel.app/">
@@ -222,13 +224,16 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
   <a href="https://github.com/Jathusan-Jesuthasan">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
+  <a href="https://www.instagram.com/mr_jj25">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
 
 ### 📧 **Contact Information**
-- **Email:** [jesuthasanjathusan@gmail.com](mailto:jesuthasanjathusan@gmail.com)
-- **Location:** Malabe, Colombo, Sri Lanka
-- **Phone:** +94 77 1514 753
-- **Availability:** Open for internships and collaborative projects
+- **📧 Email:** [jesuthasanjathusan@gmail.com](mailto:jesuthasanjathusan@gmail.com)
+- **📱 Phone:** [+94 77 1514 753](tel:+94771514753)
+- **📍 Location:** Malabe, Colombo, Sri Lanka
+- **💼 Availability:** Open for internships and collaborative projects
 
 </div>
 
@@ -244,10 +249,10 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 ### 🎯 **Currently Exploring**
 <p>
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" alt="React Native">
   <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white" alt="AWS">
   <img src="https://img.shields.io/badge/Azure-0078D4?logo=microsoftazure&logoColor=white" alt="Azure">
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes">
 </p>
 
 </div>
