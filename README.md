@@ -3,7 +3,7 @@
   Hi, I'm Jathusan Jesuthasan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">Software Engineering Undergraduate | MERN Stack & .NET Developer | Mobile App Developer</h3>
+<h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | Mobile App Developer</h3>
 
 <p align="center">
   <a href="https://my-portfolio-chi-six-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
@@ -19,8 +19,8 @@
 I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with hands-on experience in full-stack development. Currently working as a **Software Engineering Intern**, I specialize in the **MERN stack** and **.NET** development while continuously expanding my skills in cloud technologies and AI integration.
 
 - 🎓 **BSc (Hons) in Information Technology** – SLIIT
-- 💼 **Software Engineering Intern** – MERN Stack & .NET Development
-- 🌱 **Currently learning:** Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)
+- 💼 **Software Engineering Intern** – MERN Stack Development
+- 🌱 **Currently learning:** Spring Boot ,React-native ,Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)
 - 💡 **Interests:** Clean Architecture, System Design, UI/UX, Mobile Development
 - 📍 **Based in:** Colombo, Sri Lanka
 
