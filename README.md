@@ -3,7 +3,7 @@
   Hi, I'm Jathusan Jesuthasan
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
-<h3 align="center">Software Engineering Undergraduate | MERN Stack Developer | Mobile App Developer</h3>
+<h3 align="center">Full-Stack Developer | 4th-Year Software Engineering Undergraduate | Former SLT-MOBITEL Intern</h3>
 
 <p align="center">
   <a href="https://my-portfolio-chi-six-14.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
@@ -16,13 +16,50 @@
 
 ## 👨‍💻 About Me
 
-I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with hands-on experience in full-stack development. Currently working as a **Software Engineering Intern**, I specialize in the **MERN stack** and **.NET** development while continuously expanding my skills in cloud technologies and AI integration.
+I'm a **4th-year BSc (Hons) Information Technology undergraduate specializing in Software Engineering at SLIIT**, with hands-on industry experience from my six-month internship at **Sri Lanka Telecom (SLT-MOBITEL)**. I build responsive web applications and REST APIs using **React, Node.js, Express, MongoDB, ASP.NET Core, and SQL Server**. I'm also conducting final-year research in **requirement-traceable, AI-assisted software quality assurance**, focusing on requirement quality and BDD readiness.
 
-- 🎓 **BSc (Hons) in Information Technology** – SLIIT
-- 💼 **Software Engineering Intern** – MERN Stack Development
-- 🌱 **Currently learning:** Spring Boot, React Native, Advanced .NET, AI Integration, Cloud Deployment (AWS/Azure)
-- 💡 **Interests:** Clean Architecture, System Design, UI/UX, Mobile Development
-- 📍 **Based in:** Colombo, Sri Lanka
+- 🎓 **Education:** BSc (Hons) in Information Technology — Software Engineering, **4th Year**, SLIIT
+- 💼 **Experience:** Completed Software Engineering Internship at **SLT-MOBITEL** (September 2025 – March 2026)
+- 🔬 **Final-year research:** Trustworthy Requirement-Traceable QA Framework for BDD Test Generation — **Requirement Quality & BDD-Readiness Classification**
+- 💡 **Interests:** Full-stack development, software quality, AI-assisted engineering, system design, and UI/UX
+- 📍 **Based in:** Sri Lanka | 💼 **Open to:** Remote part-time development and freelance projects
+
+---
+
+## 💼 Industry Experience
+
+**Software Engineering Intern — Sri Lanka Telecom (SLT-MOBITEL)** | *September 2025 – March 2026*
+
+- Contributed to internal enterprise platforms including the **Network KPI System**, **Alarm Management**, and **INMS**.
+- Worked on full-stack features and REST API integration using MERN technologies and ASP.NET Core.
+- Supported database operations, role-based functionality, dashboards, testing, and debugging.
+- Collaborated with a professional engineering team on practical operational workflows.
+
+> Internal system source code, credentials, and confidential data are not shared publicly.
+
+---
+
+## 🔬 Final-Year Research
+
+**Trustworthy Requirement-Traceable QA Framework for BDD Test Generation** *(in progress)*
+
+- **My research component:** Requirement Quality and BDD-Readiness Classification.
+- Exploring requirement-quality analysis and AI/NLP-assisted workflows to support more trustworthy BDD-based software testing.
+- Research interests include natural language processing, requirement traceability, and software quality assurance.
+
+---
+
+## 🤝 How I Can Help
+
+Available for **remote part-time developer work** and appropriately scoped freelance projects:
+
+- Responsive React websites, landing pages, and small-business websites
+- Frontend feature development and UI fixes
+- REST API development and integration
+- Database-backed application features and bug fixing
+- Website updates and ongoing maintenance
+
+📩 **Discuss a project:** [Email me](mailto:jesuthasanjathusan@gmail.com) · [LinkedIn](https://www.linkedin.com/in/jathusan-jesuthasan)
 
 ---
 
@@ -72,6 +109,27 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 ---
 
 ## 📂 Featured Projects
+
+### ☀️ **Smart Solar Microgrid Energy Management & Trading System**
+> **Enterprise Application Development (EAD) | Year 4, Semester 1 | SLIIT group project (4 members)**
+
+A multi-platform enterprise application **designed** to coordinate solar microgrid energy availability, reservations, transaction verification, and administration. Developed as an academic assignment for an EAD module taught by **visiting lecturers from IFS** (not an IFS employment or client project).
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?logo=dotnet&logoColor=white" alt="ASP.NET Core">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" alt="Kotlin">
+  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?logo=postman&logoColor=white" alt="REST APIs">
+</p>
+
+**System scope:** Microgrid capacity management, energy reservation and approval, QR-based transaction verification, and administrative monitoring. The architecture connects a web client and native Android app to a centralized **.NET 8 Web API** and **MongoDB**, with JWT/RBAC, SQLite local storage, Swagger, and IIS in the project design.
+
+**Status:** Academic group project. The description covers the proposed system architecture; individual feature completion and deployment have not been independently verified.
+
+<!-- Add the real GitHub repository URL and your individual component/contribution here when confirmed. -->
+
+---
 
 ### 🤖 **Smart Accounting Assistant**
 > **AI-powered accounting system for businesses with intelligent financial insights**
@@ -140,7 +198,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 <p>
   <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/JSP-007396?logo=java&logoColor=white" alt="JSP">
   <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" alt="MySQL">
 </p>
 
@@ -191,10 +249,10 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 ### 🎯 **Current Focus Areas**
 - **.NET Ecosystem:** Building enterprise-level applications with .NET Core
 - **MERN Stack:** Developing full-stack solutions for modern web applications
-- **Spring Boot:** Mastering enterprise Java development
+- **Software Quality Research:** Requirement analysis, BDD readiness, and AI-assisted QA
 - **React Native:** Building cross-platform mobile applications
 - **AI Integration:** Implementing machine learning features in web apps
-- **Cloud Technologies:** Deploying and managing applications on cloud platforms
+- **Deployment & Delivery:** Exploring cloud deployment and CI/CD workflows
 
 ### 💡 **Development Philosophy**
 > *"I believe in writing clean, maintainable code that solves real-world problems. Every project is an opportunity to learn, innovate, and create meaningful impact through technology."*
@@ -231,9 +289,8 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 ### 📧 **Contact Information**
 - **📧 Email:** [jesuthasanjathusan@gmail.com](mailto:jesuthasanjathusan@gmail.com)
-- **📱 Phone:** [+94 77 1514 753](tel:+94771514753)
 - **📍 Location:** Malabe, Colombo, Sri Lanka
-- **💼 Availability:** Open for internships and collaborative projects
+- **💼 Availability:** Open to **remote part-time developer roles, freelance web development, API integration, and maintenance projects**
 
 </div>
 
@@ -261,7 +318,7 @@ I'm a passionate **3rd Year Software Engineering Undergraduate** at SLIIT with h
 
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Continuous+Learner;Clean+Code+Advocate;MERN+Stack+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=7C3AED&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Problem+Solver;Continuous+Learner;Clean+Code+Advocate;Full-Stack+Engineer" alt="Typing SVG" />
 
   <p>⭐ <b>Thanks for visiting my profile!</b> Feel free to explore my projects and get in touch.</p>
 
